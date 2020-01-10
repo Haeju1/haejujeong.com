@@ -1,7 +1,6 @@
 var image = $("#changing-img");
 var images = ["images/parents.JPG", "images/basketball.JPG", "images/dcunited.JPG", "images/libela.JPG", "images/georgetown.JPG"];
 
-console.log("SDFs");
 
 let counter = 1;
 const switchBack = (img) => {
